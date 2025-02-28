@@ -1,2 +1,4 @@
 # Data-analysis-Projects
-Data Analytics Projects
+John Clothing's sales Data analysis
+Author: Darshan Naik
+
