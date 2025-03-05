@@ -22,6 +22,7 @@ The video walks through the analysis done on John Clothing's performance for the
 <br>
 Key Insights:
 <br>
+<br>
 1️⃣ Performance Metrics
 <br>
 Total Orders: 31,047
@@ -37,15 +38,18 @@ Gender Contribution: Women contributed 64% of sales, while men accounted for 36%
 <br>
 Age Group Trends: Middle-aged customers led the way, followed closely by youth customers.
 <br>
+<br>
 3️⃣ Product Analysis
 <br>
 Top 5 Performing Products: Set, Kurta, Western Dress, Top, and Saree
+<br>
 <br>
 4️⃣ Geographical Performance
 <br>
 Top-performing States: Maharashtra, Karnataka, Uttar Pradesh, Tamil Nadu, and Telangana
 <br>
 Bottom-performing States: New Delhi, Mizoram, Ladakh, Dadra and Nagar Haveli, and Meghalaya
+<br>
 <br>
 5️⃣ Order Status & Delivery Channel
 <br>
